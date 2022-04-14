@@ -1,0 +1,36 @@
+id: PEC666E34
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG4244
+  instance_id: http://purl.bdrc.io/resource/IE1KG4244
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - རྒྱ་གཞུང་སྐོར་གྱི་ཚད་མ་ཕྱོགས་བསྒྲིགས།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P6120
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    9eb0578e07c94cedb2fcdecf14a26300:
+      title: པོད ༢་རྒྱ་གཞུང་སྐོར་གྱི་ཚད་མ་ཕྱོགས་བསྒྲིགས།
+      volume_number: 2
+      base_file: UT1KG4244_I1KG4957_0000.txt
+      reference: http://purl.bdrc.io/resource/VL5E26260282348D20
+      image_group: I1KG4957
+      quality: Low
+    757c8af8b860468aa12220053efd0c00:
+      title: པོད ༡་རྒྱ་གཞུང་སྐོར་གྱི་ཚད་མ་ཕྱོགས་བསྒྲིགས།
+      volume_number: 1
+      base_file: UT1KG4244_I1KG4956_0000.txt
+      reference: http://purl.bdrc.io/resource/VL9245D5D6D3349A0C
+      image_group: I1KG4956
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG4244
+  - http://purl.bdrc.io/resource/W1KG4244
+  ocr_software: Namsel
+created_at: '2021-12-22T10:39:44.222119'
+last_modified_at: '2021-12-22T10:39:44.222125'
